@@ -17,7 +17,7 @@ I'm currently learning generative AI techniques through Azure OpenAI Service, La
   <a href="https://medium.com/@ch0live">Medium</a>
  </li>
  <li>
-  <a href="https://Ch0live.github.io/">GitHub Pages</a>
+  <a href="https://ch0live.github.io/home">GitHub Pages</a>
  </li>
 </ul>
 
