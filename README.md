@@ -12,7 +12,7 @@ When afk I enjoy going on long runs, reading and drinking far too much builders 
 
 <ul>
  <li>
-  <a href="mailto:dozeyis@gmail.com">Email</a>
+  <a href="mailto:housespiderplant@gmail.com">Email</a>
  </li>
  <li>
   <a href="https://medium.com/@ch0live">Medium</a>
